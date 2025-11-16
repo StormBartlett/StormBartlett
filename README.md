@@ -5,8 +5,8 @@ I work across design, implementation, and deployment: from shaping UX flows and 
 Always interested in modern front-end stacks, AI-assisted workflows, and tools that make learning, building, and debugging faster.
 
 ### 🔥 Tech Stack
-`
-Management:     Git/GitHub · GitHub Actions (CI/CD) · Docker · Linux
+```
+Management:     Git/GitHub · GitHub Actions (CI/CD) · Docker · Linux/macOS
 
 Front-End:      React (Hooks) · Next.js · HTML5 · CSS3/Sass · Tailwind CSS ·
                 Accessible/Responsive UI · Chrome Extensions
@@ -20,4 +20,5 @@ Testing & QA:   Jest · Playwright · PyTest · Cypress-style flows · ESLint ·
                 Prettier · Code reviews · Documentation
 
 Ways of Working: Agile/Scrum · Stakeholder interviews · Mentoring ·
-                 Pair programming`
+                 Pair programming
+```
