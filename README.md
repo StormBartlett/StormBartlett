@@ -7,7 +7,7 @@ I work across design, implementation, and deployment: from shaping UX flows and 
 Always interested in modern front-end stacks, AI-assisted workflows, and tools that make learning, building, and debugging faster.
 
 ### 🔥 Tech Stack
-```
+```ts
 Management:     Git/GitHub · GitHub Actions (CI/CD) · Docker · Linux/macOS
 
 Front-End:      React (Hooks) · Next.js · HTML5 · CSS3/Sass · Tailwind CSS ·
