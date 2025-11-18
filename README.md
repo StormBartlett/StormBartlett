@@ -1,4 +1,4 @@
-### About 
+### 🧑🏻‍💻 About 
 
 Full-stack software engineer working end-to-end on modern web products (React/TypeScript, Node, and Python when it earns its keep). I care about secure, well-tested code, fast feedback loops, and shipping features that actually get used.
 
