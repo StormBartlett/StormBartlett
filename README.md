@@ -1,26 +1,15 @@
-### 🧑🏻‍💻 About 
+# 💫 About Me:
+Full-stack software engineer working end-to-end on modern web products (React/TypeScript, Node, and Python when it earns its keep). I care about secure, well-tested code, fast feedback loops, and shipping features that actually get used.<br><br>I work across design, implementation, and deployment: from shaping UX flows and accessible, responsive UIs (React, Next.js, Tailwind, Chrome extensions) to building and hardening backends (Node/Express, Django/Flask, REST, WebSockets, JWT/OAuth). I’m comfortable across PostgreSQL, MongoDB, SQL, and Firebase Firestore, and I keep pipelines healthy with Git/GitHub, GitHub Actions, and Docker.<br><br>Always interested in modern front-end stacks, AI-assisted workflows, and tools that make learning, building, and debugging faster.<br><br>
 
-Full-stack software engineer working end-to-end on modern web products (React/TypeScript, Node, and Python when it earns its keep). I care about secure, well-tested code, fast feedback loops, and shipping features that actually get used.
 
-I work across design, implementation, and deployment: from shaping UX flows and accessible, responsive UIs (React, Next.js, Tailwind, Chrome extensions) to building and hardening backends (Node/Express, Django/Flask, REST, WebSockets, JWT/OAuth). I’m comfortable across PostgreSQL, MongoDB, SQL, and Firebase Firestore, and I keep pipelines healthy with Git/GitHub, GitHub Actions, and Docker.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StormBartlett&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=StormBartlett&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StormBartlett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Always interested in modern front-end stacks, AI-assisted workflows, and tools that make learning, building, and debugging faster.
+---
+[![](https://visitcount.itsvg.in/api?id=StormBartlett&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔥 Tech Stack
-```ts
-Management:     Git/GitHub · GitHub Actions (CI/CD) · Docker · Linux/macOS
-
-Front-End:      React (Hooks) · Next.js · HTML5 · CSS3/Sass · Tailwind CSS ·
-                Accessible/Responsive UI · Chrome Extensions
-
-Back-End:       Node.js (Express) · Python (Django/Flask) · REST APIs ·
-                JWT/OAuth · WebSockets
-
-Databases:      PostgreSQL · MongoDB · SQL · Firebase Firestore
-
-Testing & QA:   Jest · Playwright · PyTest · Cypress-style flows · ESLint ·
-                Prettier · Code reviews · Documentation
-
-Ways of Working: Agile/Scrum · Stakeholder interviews · Mentoring ·
-                 Pair programming
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
